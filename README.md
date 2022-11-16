@@ -1,5 +1,5 @@
 # ThinkPad-T440-OpenCore
-My Thinkpad T440 OpenCore EFI folder for macOS Montery
+My Thinkpad T440 OpenCore EFI folder for macOS Monterey
 
 (MAC Address removed from config.plist, you will have to generate your own with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS))
 
